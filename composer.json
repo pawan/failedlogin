@@ -1,5 +1,5 @@
 {
-  "name": "pawan/loginfailed",
+  "name": "pawan/failedlogin",
   "description": "Log Admin login failed in custom log file",
   "homepage": "https://github.com/pawankparmar/failedlogin",
   "version": "1.0.0",
